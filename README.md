@@ -321,6 +321,11 @@ This project is licensed under the MIT License.
 - Agent orchestration with LangGraph
 - Inspired by fighting games and esports
 
+## Contributors
+
+- [Shagun Batham](https://github.com/Shagun26Batham)
+- [kashika-29](https://github.com/kashika-29)
+
 ## Contact
 
 For questions or support, please open an issue on the GitHub repository.
